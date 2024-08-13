@@ -7,4 +7,4 @@ echo
 # Run the Docker image as a container
 echo
 
-echo "Hi"
+echo "Hello"
