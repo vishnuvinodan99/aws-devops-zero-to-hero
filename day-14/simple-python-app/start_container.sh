@@ -7,4 +7,5 @@ echo
 # Run the Docker image as a container
 echo
 
-#Hello, commits
+#Hello!
+#Testing
